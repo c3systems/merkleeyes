@@ -4,7 +4,7 @@ import (
 	abcicli "github.com/tendermint/abci/client"
 	abci "github.com/tendermint/abci/types"
 	"github.com/tendermint/go-wire"
-	"github.com/tendermint/merkleeyes/app"
+	"github.com/c3systems/merkleeyes/app"
 	cmn "github.com/tendermint/tmlibs/common"
 )
 

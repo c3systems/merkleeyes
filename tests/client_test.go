@@ -7,8 +7,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/tendermint/abci/server"
-	"github.com/tendermint/merkleeyes/app"
-	eyes "github.com/tendermint/merkleeyes/client"
+	"github.com/c3systems/merkleeyes/app"
+	eyes "github.com/c3systems/merkleeyes/client"
 	. "github.com/tendermint/tmlibs/common"
 )
 

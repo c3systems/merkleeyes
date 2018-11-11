@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	abci "github.com/tendermint/abci/types"
 	wire "github.com/tendermint/go-wire"
-	"github.com/tendermint/merkleeyes/iavl"
+	"github.com/c3systems/merkleeyes/iavl"
 	cmn "github.com/tendermint/tmlibs/common"
 )
 

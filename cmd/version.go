@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/tendermint/merkleeyes/version"
+	"github.com/c3systems/merkleeyes/version"
 )
 
 var versionCmd = &cobra.Command{

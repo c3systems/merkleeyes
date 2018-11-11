@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/tendermint/merkleeyes/cmd"
+	"github.com/c3systems/merkleeyes/cmd"
 )
 
 func main() {

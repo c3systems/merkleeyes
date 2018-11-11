@@ -5,7 +5,7 @@ import (
 
 	. "github.com/tendermint/tmlibs/common"
 	"github.com/tendermint/tmlibs/db"
-	"github.com/tendermint/merkleeyes/iavl"
+	"github.com/c3systems/merkleeyes/iavl"
 )
 
 func main() {

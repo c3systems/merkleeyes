@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/tendermint/merkleeyes/iavl"
+	"github.com/c3systems/merkleeyes/iavl"
 	db "github.com/tendermint/tmlibs/db"
 	"github.com/tendermint/tmlibs/merkle"
 )

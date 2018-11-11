@@ -10,7 +10,7 @@ import (
 	"github.com/tendermint/go-crypto"
 	"github.com/tendermint/go-wire"
 	"github.com/tendermint/go-wire/data"
-	"github.com/tendermint/merkleeyes/iavl"
+	"github.com/c3systems/merkleeyes/iavl"
 	cmn "github.com/tendermint/tmlibs/common"
 	dbm "github.com/tendermint/tmlibs/db"
 	"github.com/tendermint/tmlibs/merkle"

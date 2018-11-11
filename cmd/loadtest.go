@@ -10,7 +10,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/tendermint/merkleeyes/iavl"
+	"github.com/c3systems/merkleeyes/iavl"
 	"github.com/tendermint/tmlibs/db"
 	"github.com/tendermint/tmlibs/merkle"
 )

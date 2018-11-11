@@ -9,7 +9,7 @@ import (
 	cmn "github.com/tendermint/tmlibs/common"
 	db "github.com/tendermint/tmlibs/db"
 
-	"github.com/tendermint/merkleeyes/iavl"
+	"github.com/c3systems/merkleeyes/iavl"
 )
 
 var (

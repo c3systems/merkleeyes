@@ -6,7 +6,7 @@ import (
 
 	cmn "github.com/tendermint/tmlibs/common"
 
-	application "github.com/tendermint/merkleeyes/app"
+	application "github.com/c3systems/merkleeyes/app"
 )
 
 var (
